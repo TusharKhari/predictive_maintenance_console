@@ -2,6 +2,8 @@
 
 An end-to-end, production-ready machine learning system that forecasts equipment failure from real-time operating telemetry.
 
+https://predictivemaintenanceconsole-sgmntdcathmhurbtet2u4s.streamlit.app/
+
 ---
 
 ## 📌 Problem & Context
