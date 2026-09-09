@@ -1,0 +1,17 @@
+{
+    "model_name": "XGBoost",
+    "version": "1.0.0",
+    "dataset": "AI4I 2020",
+    "target": "machine_failure",
+    "threshold": 0.35,
+    "features": [
+        "machine_type",
+        "air_temperature",
+        "process_temperature",
+        "rotational_speed",
+        "torque",
+        "tool_wear",
+        "temperature_difference",
+        "power_proxy"
+    ]
+}
